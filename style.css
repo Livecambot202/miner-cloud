@@ -1,0 +1,36 @@
+a {
+  text-decoration: none;
+  color: black;
+}
+@media screen and (min-width: 200px) and (max-width: 1000px) {
+	.a{color:white;
+   background-color: #109dd9;
+   border-color: white;
+    }
+body {background: #ffbfbe;}
+ h1,h3,h2,h4,div,p,a,button{color: black; text-align: center;}
+ .t{text-align: center;}
+.b{margin-bottom: 5em;}
+.c{color:white;
+   background-color:#0ae6b4;
+   border-color: white;
+   padding-left: 5px;
+    }
+}
+@media screen and (min-width: 1000px) {
+.a{color:white;
+   background-color: #109dd9;
+   border-color: white;
+    }
+body {background: #ffbfbe;}
+.t{text-align: center;}
+.b{margin-bottom: 5em;}
+.c{color:white;
+   background-color:#0ae6b4;
+   border-color: white;
+   padding-left: 5px;
+    }
+}
+.negative {
+  background: linear-gradient(90deg, #cfecd0, #a0cea7, #9ec0db);
+}
